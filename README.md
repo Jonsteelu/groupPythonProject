@@ -6,7 +6,7 @@ When the program starts, type one of the available commands shown in the menu. Y
 
                                                         FEATURES AND WHAT THEY DO
 add income:
-          Lets you reocrd your source of income (ex: Job, Allowance, etc..)
+          Lets you reocrd your source of income (ex: Job, Allowance, etc..).
           The amount entered is then added to your total balance.
           This helps track how much money you are earning.
 
@@ -28,22 +28,22 @@ view transac:
 
 view summary:
             Shows a full financial summary including:
-                Total income
-                Total expenses
-                Remaining balance
-                Budget usage by category
-                And if you are over or under total budget
+                Total income,
+                Total expenses,
+                Remaining balance,
+                Budget usage by category,
+                And if you are over or under total budget,
               Helps Understand your over all financial situation.
 
 monthly report:
               Generate a detailed financial report for the month.
-              Includes:
-              Total income and expenses
-              Net income
-              saving rate
-              Top 3 spending categories
-              Budget utilization percentage
-              Categorie that are close to exceeding their budget
+        Includes:
+              Total income and expenses,
+              Net income,
+              saving rate,
+              Top 3 spending categories,
+              Budget utilization percentage,
+              Categorie that are close to exceeding their budget,
             This helps analyze spending patterns and improve financial planning.
 save data:
         Saves all income, expenses, budgets, and transactions to a file.
@@ -58,10 +58,10 @@ exit:
 
 
                                                          PURPOSE OF THE PROGRAM
-  Manage money responsibly
-  Stay within spending limits
-  Track financial habits
-  Improve budgeting skills
+  Manage money responsibly,
+  Stay within spending limits,
+  Track financial habits,
+  Improve budgeting skills.
           
         
               
